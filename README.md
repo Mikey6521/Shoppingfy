@@ -11,7 +11,7 @@ Shoppingfy allows you to take your shopping list wherever you go. This project i
 
 ## Technologies Used
 
-- **React Typescript:** For building the user interface.
+- **React:** For building the user interface.
 - **Context API:** For state management and passing data into deeply nested components.
 - **CSS:** For designing and styling the application.
 
